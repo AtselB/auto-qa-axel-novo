@@ -3,7 +3,7 @@
 ### Estructura general del proyecto:
 
 ```
-auto-qa-axel-novo
+pre-entrega-automation-testing-axel-novo
 │
 ├── tests/
 │   ├── test_login.py
